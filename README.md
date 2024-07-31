@@ -30,6 +30,29 @@ A OSM é bem precisa e possui armazenamento provindo de diversos serviços como 
 
 🔎 [Planilha](https://github.com/limasfernanda/APIGeocode/blob/main/saudepac.csv)  utilizada em formato CSV
 
+🧱 [Relatório](https://github.com/limasfernanda/APIGeocode/blob/main/Hospitais_UDMES_saudePA.pbix)  .pbix
+
 
 
 💻 [Código](https://github.com/limasfernanda/APIGeocode/blob/main/projetosaudePA.ipynb) realizado em  Jupyter para esse desafio.
+
+
+
+## Resultado
+
+Utilizando como ferramenta de visualização de dados o Microsoft Power BI, ao visualizar no mapa os pontos percebe-se que há uma concentração de unidades em Belém, porém uma falta de apoio no noroeste e sudoeste do Pará. A maioria das zonas e regiões onde têm unidades e hospitais ficam próximas de rios e afluentes. A região noroeste e sudoeste do Pará é onde ficam as terras indígenas, reservas e áreas de proteção.
+
+<p align="center">
+ Figura 1 - Relatório dos pontos de Hospitais e UDMES de referência no Pará
+    <img src = "imagens/para1.PNG"/>
+</p>
+
+<br>
+
+
+
+<p align="center">
+ Figura 2 - Selecionando o Município apenas de Belém
+    <img src = "imagens/para2.PNG"/>
+</p>
+
